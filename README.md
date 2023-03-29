@@ -1,2 +1,2 @@
 # Inder_portfolio
-Data Analytics Projects
+Data Analytics Projects that I have worked on.
