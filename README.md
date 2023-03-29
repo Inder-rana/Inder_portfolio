@@ -6,6 +6,8 @@
 
 ![](/images/BI_snapshot.PNG =250x250) ![](/images/Tableau_snapshot.PNG =250x250)
 
+<img src="/images/BI_snapshot.PNG" width="100" height="100">
+
 
 
 
