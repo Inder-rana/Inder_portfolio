@@ -8,7 +8,7 @@
 
 ![](/images/BI_snapshot.PNG , width="600" height="300")
 
-<img src="https://github.com/Inder-rana/Project_portfolio_website/blob/main/images/BI_snapshot.PNG"  width="600" height="300">
+<img src="https://github.com/Inder-rana/Project_portfolio_website/blob/main/images/BI_snapshot.PNG"  width="300" height="300">
 
 
 
