@@ -1,5 +1,5 @@
 
-## Project 1: Sales Insights for AtliQ hardware [(know more)](https://github.com/Inder-rana/Project_portfolio/tree/main/Sales_insights)
+## Project 1: Sales Insights for AtliQ hardware [(more details)](https://github.com/Inder-rana/Project_portfolio/tree/main/Sales_insights)
 ### [Power BI | Tableau | SQL]  
 
 *  Designed a Power BI and Tableau dashboard to understand AtliQ hardware goods sales trend.
