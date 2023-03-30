@@ -8,6 +8,8 @@
 
 ![](/images/BI_snapshot.PNG)
 
+<img src="/images/BI_snapshot.PNG"  width="600" height="300">
+
 
 
 
