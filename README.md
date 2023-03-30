@@ -6,9 +6,9 @@
 *  This dashboard could help in increasing the revenue at least by 7% in the next quarter. 
 
 
-![](/images/BI_snapshot.PNG , width="600" height="300")
+![](/images/BI_snapshot.PNG)
 
-<img src="https://github.com/Inder-rana/Project_portfolio_website/blob/main/images/BI_snapshot.PNG"  width="300" height="300">
+
 
 
 
